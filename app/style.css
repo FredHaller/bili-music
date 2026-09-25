@@ -1,0 +1,8 @@
+@import 'tailwindcss' source('../app');
+@plugin "daisyui";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "LXGW Neo ZhiSong", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
